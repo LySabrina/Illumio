@@ -2,7 +2,7 @@
 
 - Ensure JDK is installed
 - CD into this folder
-- Run "javac Main.java" on the terminal
+- Run "javac *.java" on the terminal
 - Run "java Main" on the terminal
 
 # Assumptions
