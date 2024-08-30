@@ -21,6 +21,6 @@ I used the protocol as the key in the hashmap and its value as a hashmap again. 
 This is because protocol + port = tag.
 
 FlowLog class is used to loop through the flow log and perform the counts by using the LookupTable class.
-To count, I use hashmap frequently to keep track of count corresponding to the tag and port/prototype.
+To count, I use hashmap frequently to keep track of count corresponding to the tag and port/protocol.
 
 FileCreation is a class responsible for creating/writing to the tag_count.txt and port_proto_combo.txt.
